@@ -3,7 +3,7 @@ $(function(){
   //select text field
   var like = $('.pluginButtonLabel');
   //select the image field
-  var image = $('.sp_plugin-button');
+  var image = $('.pluginButtonIcon');
   //select the form responsible for the click event
   var click = $("form[ajaxify='/plugins/like/connect']");
 
