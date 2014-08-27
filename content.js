@@ -27,5 +27,4 @@ $(function(){
   .on('click', function(){
     like.text('You dislike this');
   });
-
 });
